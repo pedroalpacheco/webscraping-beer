@@ -42,7 +42,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/pedroalpacheco/ws-cervejas
+$ git clone git@github.com:pedroalpacheco/webscraping-beer.git
 
 # Access
 $ cd ws-cervejas
@@ -53,7 +53,7 @@ $ npm install
 # Run the project
 $ node src/main.js
 
-# The server will initialize in the <http://localhost:3000>
+
 ```
 
 ## :memo: License ##
